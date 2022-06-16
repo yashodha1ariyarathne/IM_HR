@@ -1,0 +1,24 @@
+{
+  "name": "inventivemechanics_hr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashodha1ariyarathne/IM_HR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashodha1ariyarathne/IM_HR/issues"
+  },
+  "homepage": "https://github.com/yashodha1ariyarathne/IM_HR#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
